@@ -3,7 +3,9 @@
 
 # 📚Skills
 ### Platforms & Languages
-
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Spring boot](https://img.shields.io/badge/spring-boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
