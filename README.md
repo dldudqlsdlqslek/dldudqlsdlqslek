@@ -1,5 +1,5 @@
 # Lee Young Bin
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=marsh825)](https://solved.ac/tina4686/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina4686)](https://solved.ac/tina4686/)
 
 # 📚Skills
 ### Platforms & Languages
