@@ -14,4 +14,4 @@
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tina4686@gmail.com)](mailto:tina4686@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@marsh825/posts)
+[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=dldudqls)](https://velog.io/@marsh825)
